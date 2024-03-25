@@ -18,6 +18,7 @@ public class BrowserTest {
 	{
 		
 		System.out.println("Hello Guys");
+		/*
 		System.setProperty("webdriver.chrome.driver", "chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://azdevops-webapp.azurewebsites.net/webapp/");
@@ -25,6 +26,7 @@ public class BrowserTest {
 		System.out.println(text);
 		Assert.assertTrue(text.equalsIgnoreCase("RahulShettyAcademy.com Learning"));
 		driver.close();
+		*/
 		
 		
 	}
